@@ -1,6 +1,6 @@
 > ## :warning: **Use at your own risk** 
 > 
-> Since moving to PHP 8 none of the tests pass. We have no current interest in fixing PHPUnit versions to resolve this issue. The library works as-is on PHP 8 for what we're using (Graph API). Feel free to submit a PR.
+> Since moving to PHP 8 none of the tests pass. We have no current interest in fixing PHPUnit versions to resolve this issue. The library works as-is on PHP 8 for what we're using it for. Feel free to submit a PR.
 
 
 # Facebook SDK for PHP (v5)
